@@ -17,4 +17,4 @@ quote:
 > zitat, zwei
 > zitat, drei
 
-
+<img src="https://images-na.ssl-images-amazon.com/images/I/41G87vXYmxL.png"/>
